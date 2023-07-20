@@ -1,6 +1,6 @@
-## Olá, sou o Lucas!👋
+## Olá, meu nome é Lucas!
 
-- 💻 cursando SI
+- 💻 Cursando Sistemas de Informação na Unimontes
 
 ![Veloso's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabVP&show_icons=true&theme=merko)
 
